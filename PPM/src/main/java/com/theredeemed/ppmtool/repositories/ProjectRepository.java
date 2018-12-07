@@ -1,4 +1,4 @@
-package com.theredeemed.ppmtool.repository;
+package com.theredeemed.ppmtool.repositories;
 
 import com.theredeemed.ppmtool.domain.Project;
 import org.springframework.data.repository.CrudRepository;
